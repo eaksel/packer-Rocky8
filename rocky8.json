@@ -2,13 +2,13 @@
   "variables": {
       "boot_wait": "5s",
       "disk_size": "40960",
-      "iso_checksum": "7a0c39ec8c271c6112ea37ed9767d4ab98107a6c778e03d34d16cd5e4e0285f0",
-      "iso_url": "https://download.rockylinux.org/pub/rocky/8.3/isos/x86_64/Rocky-8.3-x86_64-boot.iso",
+      "iso_checksum": "53a62a72881b931bdad6b13bcece7c3a2d4ca9c4a2f1e1a8029d081dd25ea61f",
+      "iso_url": "https://download.rockylinux.org/pub/rocky/8/isos/x86_64/Rocky-8.4-x86_64-boot.iso",
       "memsize": "1024",
       "numvcpus": "1",
       "ssh_password" : "packer",
       "ssh_username" : "packer",
-      "vm_name": "Rocky-8.3-x86_64"
+      "vm_name": "Rocky-8.4-x86_64"
     },
     "builders": [
       {
